@@ -1,0 +1,9 @@
+EmployeeId,LastName,FirstName,Title,ReportsTo,Email
+1,Adams,Andrew,General Manager,,andrew@chinookcorp.com
+2,Edwards,Nancy,Sales Manager,1,nancy@chinookcorp.com
+3,Peacock,Jane,Sales Support Agent,2,jane@chinookcorp.com
+4,Park,Margaret,Sales Support Agent,2,margaret@chinookcorp.com
+5,Johnson,Steve,Sales Support Agent,2,steve@chinookcorp.com
+6,Mitchell,Michael,IT Manager,1,michael@chinookcorp.com
+7,King,Robert,IT Staff,6,robert@chinookcorp.com
+8,Callahan,Laura,IT Staff,6,laura@chinookcorp.com
